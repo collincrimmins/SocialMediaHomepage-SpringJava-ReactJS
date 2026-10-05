@@ -6,7 +6,11 @@
 3) View a Chronological Infinite Scroll Homepage feed
 
 ## Stack
-**Spring Boot 3.0**
+Spring Boot 3.0
 - Java 17
-**MySQL Database**
-**ReactJS**
+
+MySQL Database
+- Spring JPA & Hibernate
+
+ReactJS
+- Frontend
