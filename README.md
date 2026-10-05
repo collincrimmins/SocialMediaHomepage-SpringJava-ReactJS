@@ -1,6 +1,12 @@
-Welcome to a "Student Database" and a "Twitter" clone!
+# Welcome to my Social-Media Homepage project
 
-- Frontend ReactJS w/ Typescript
-- Backend SpringBoot w/ Java
+## Features
+1) Create an Account (secured with JWT Tokens)
+2) Publish Posts
+3) View a Chronological Infinite Scroll Homepage feed
 
-:)
+## Stack
+**Spring Boot 3.0**
+- Java 17
+**MySQL Database**
+**ReactJS**
