@@ -15,7 +15,9 @@ MySQL Database
 ReactJS
 - Frontend
 
-![Alt Text](/images/tweets.png)
+## Images
+
+![Alt Text](/images/Tweets.png)
 ![Alt Text](/images/database.png)
 ![Alt Text](/images/newimage1.png)
 ![Alt Text](/images/newimage2.png)
