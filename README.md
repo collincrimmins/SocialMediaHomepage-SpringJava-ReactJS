@@ -14,3 +14,6 @@ MySQL Database
 
 ReactJS
 - Frontend
+
+![Alt Text](/images/newimage1.png)
+![Alt Text](/images/newimage2.png)
